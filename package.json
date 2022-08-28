@@ -1,0 +1,25 @@
+{
+  "name": "kurdish-dummy-text",
+  "version": "1.0.0",
+  "description": "Kurdish Dummy Text usedto generate a kurish dummy text and it is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawan97/Kurdish-Dummy-Text-NPM-Package.git"
+  },
+  "keywords": [
+    "kurdish",
+    "dummy",
+    "text",
+    "generator"
+  ],
+  "author": "kawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawan97/Kurdish-Dummy-Text-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/kawan97/Kurdish-Dummy-Text-NPM-Package#readme"
+}
